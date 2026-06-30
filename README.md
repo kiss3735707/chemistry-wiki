@@ -20,10 +20,18 @@ Karpathy LLM Wiki 模式的化学知识库。GitHub 为唯一真相源。
 
 ## 快速开始
 
+### 1. 在 GitHub 创建空仓库 `chemistry-wiki`
+
+https://github.com/new （不要添加 README）
+
+### 2. 首次 push（Mac 上已 init 完成）
+
 ```bash
-git clone git@github.com:kiss3735707/chemistry-wiki.git
-cd chemistry-wiki
+cd /Users/hd/python/wiki
+./scripts/push-to-github.sh
 ```
+
+### 3. 其他设备 clone
 
 Obsidian → Open folder as vault → 选择 clone 目录 → 打开 `wiki/首页.md`。
 

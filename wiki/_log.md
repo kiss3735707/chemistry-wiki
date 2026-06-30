@@ -37,5 +37,6 @@
 
 - 重组 raw：`raw/ella/`（Ella 镜像）、`raw/inbox/`（待 ingest）
 - 新增 [[多端同步说明]]：Mac/Windows 收集发布，手机/平板只读
-- 初始化 Git 仓库，推送到 GitHub
+- 初始化 Git 仓库，配置 remote `git@github.com:kiss3735707/chemistry-wiki.git`
+- 待用户在 GitHub 创建空仓库后执行 `./scripts/push-to-github.sh`
 - 更新 [[首页]]、CLAUDE.md、[[_index]]
