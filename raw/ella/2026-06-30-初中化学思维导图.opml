@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>初中化学知识框架</title>
+    <dateCreated>2026-06-17</dateCreated>
+  </head>
+  <body>
+    <outline text="初中化学知识框架">
+      <outline text="一、化学基本概念">
+        <outline text="走进化学世界">
+          <outline text="化学研究对象：物质及其变化"/>
+          <outline text="物理变化 vs 化学变化（是否有新物质）"/>
+          <outline text="物理性质 vs 化学性质"/>
+          <outline text="实验基本操作（取用、加热、过滤、蒸发）"/>
+          <outline text="探究步骤：问题→假设→实验→结论"/>
+        </outline>
+        <outline text="物质分类">
+          <outline text="纯净物">
+            <outline text="单质（金属、非金属）"/>
+            <outline text="化合物">
+              <outline text="氧化物"/>
+              <outline text="酸"/>
+              <outline text="碱"/>
+              <outline text="盐"/>
+            </outline>
+          </outline>
+          <outline text="混合物（空气、溶液、合金）"/>
+        </outline>
+        <outline text="化学用语">
+          <outline text="元素符号"/>
+          <outline text="化学式（读写、含义、化合价）"/>
+          <outline text="化学方程式（书写、配平、意义）"/>
+          <outline text="离子符号（H⁺、OH⁻、Na⁺、Cl⁻、CO₃²⁻）"/>
+        </outline>
+        <outline text="微观粒子">
+          <outline text="分子：保持化学性质的最小粒子"/>
+          <outline text="原子：化学变化中最小粒子"/>
+          <outline text="离子：带电的原子或原子团"/>
+          <outline text="化学变化中分子可分、原子不可分"/>
+        </outline>
+      </outline>
+      <outline text="二、空气和氧气">
+        <outline text="空气">
+          <outline text="成分：N₂(78%)、O₂(21%)、稀有气体、CO₂"/>
+          <outline text="测定O₂含量：红磷燃烧法"/>
+          <outline text="空气污染：SO₂、NO₂、颗粒物"/>
+          <outline text="防治：清洁能源、尾气处理"/>
+        </outline>
+        <outline text="氧气">
+          <outline text="物理性质：无色无味，密度略大于空气"/>
+          <outline text="化学性质：助燃性（氧化性）"/>
+          <outline text="实验室制取">
+            <outline text="加热KMnO₄"/>
+            <outline text="分解H₂O₂（MnO₂催化）"/>
+            <outline text="加热KClO₃（MnO₂催化）"/>
+          </outline>
+          <outline text="工业制取：分离液态空气"/>
+          <outline text="验满：带火星木条放瓶口复燃"/>
+          <outline text="用途：医疗、炼钢、气焊"/>
+        </outline>
+      </outline>
+      <outline text="三、水和氢">
+        <outline text="水的组成：电解水 H₂:O₂ = 2:1"/>
+        <outline text="水的净化：沉淀→过滤→吸附→蒸馏"/>
+        <outline text="硬水与软水：肥皂水区分，煮沸/蒸馏软化"/>
+        <outline text="氢气">
+          <outline text="最轻气体"/>
+          <outline text="可燃性（点燃前验纯）"/>
+          <outline text="还原性"/>
+          <outline text="制取：Zn + H₂SO₄ → ZnSO₄ + H₂↑"/>
+        </outline>
+      </outline>
+      <outline text="四、碳和碳的氧化物">
+        <outline text="碳单质（同素异形体）">
+          <outline text="金刚石：硬度大"/>
+          <outline text="石墨：导电、润滑"/>
+          <outline text="C₆₀：新材料"/>
+        </outline>
+        <outline text="碳的化学性质">
+          <outline text="可燃性（充分→CO₂，不充分→CO）"/>
+          <outline text="还原性（与CuO、Fe₂O₃反应）"/>
+        </outline>
+        <outline text="二氧化碳 CO₂">
+          <outline text="不燃烧不支持燃烧"/>
+          <outline text="与水、碱反应"/>
+          <outline text="制取：CaCO₃ + 2HCl"/>
+          <outline text="检验：澄清石灰水变浑浊"/>
+          <outline text="验满：燃着木条放瓶口熄灭"/>
+          <outline text="用途：灭火、干冰、光合作用"/>
+          <outline text="温室气体"/>
+        </outline>
+        <outline text="一氧化碳 CO">
+          <outline text="有毒"/>
+          <outline text="可燃性、还原性"/>
+          <outline text="炼铁：CO + Fe₂O₃ → Fe + CO₂"/>
+        </outline>
+      </outline>
+      <outline text="五、金属">
+        <outline text="物理性质：导电导热、光泽、延展性"/>
+        <outline text="化学性质">
+          <outline text="与O₂反应"/>
+          <outline text="与稀酸反应（置换）"/>
+          <outline text="与盐溶液反应（置换）"/>
+        </outline>
+        <outline text="金属活动性顺序">
+          <outline text="K Ca Na Mg Al Zn Fe Sn Pb (H) Cu Hg Ag Pt Au"/>
+          <outline text="前置换后"/>
+          <outline text="H前金属与稀酸反应"/>
+        </outline>
+        <outline text="铁的冶炼：3CO + Fe₂O₃ → 2Fe + 3CO₂"/>
+        <outline text="金属保护：防锈、回收、合理开采"/>
+      </outline>
+      <outline text="六、溶液">
+        <outline text="组成：溶质 + 溶剂"/>
+        <outline text="溶解（物理过程）与乳化"/>
+        <outline text="饱和溶液"/>
+        <outline text="溶解度（100g水中，受温度影响）"/>
+        <outline text="溶质质量分数 = 溶质/溶液 × 100%"/>
+        <outline text="配制溶液：计算→称量→溶解→装瓶"/>
+        <outline text="溶解度曲线：查溶解度、判断饱和、结晶"/>
+      </outline>
+      <outline text="七、酸和碱">
+        <outline text="酸（H⁺）">
+          <outline text="常见：HCl、H₂SO₄、HNO₃、H₂CO₃"/>
+          <outline text="通性：指示剂、金属、碱、盐"/>
+          <outline text="浓H₂SO₄：吸水性、脱水性、酸入水稀释"/>
+        </outline>
+        <outline text="碱（OH⁻）">
+          <outline text="常见：NaOH、Ca(OH)₂"/>
+          <outline text="通性：指示剂、酸、盐"/>
+          <outline text="NaOH潮解、Ca(OH)₂微溶"/>
+        </outline>
+        <outline text="中和反应">
+          <outline text="酸 + 碱 → 盐 + 水（放热）"/>
+          <outline text="应用：改良土壤、处理废水、胃药"/>
+        </outline>
+      </outline>
+      <outline text="八、盐">
+        <outline text="NaCl（食盐）"/>
+        <outline text="Na₂CO₃（纯碱）"/>
+        <outline text="NaHCO₃（小苏打）"/>
+        <outline text="CaCO₃（石灰石）"/>
+        <outline text="CuSO₄（波尔多液）"/>
+        <outline text="复分解反应">
+          <outline text="AB + CD → AD + CB"/>
+          <outline text="条件：生成水、气体或沉淀"/>
+        </outline>
+      </outline>
+      <outline text="九、化学与生活">
+        <outline text="有机物（含碳化合物）"/>
+        <outline text="三大营养素：糖类、油脂、蛋白质"/>
+        <outline text="维生素与微量元素"/>
+        <outline text="材料：塑料、合成纤维、合成橡胶"/>
+        <outline text="能源：化石燃料、新能源"/>
+        <outline text="环境保护与绿色化学"/>
+      </outline>
+      <outline text="十、化学反应类型">
+        <outline text="化合反应：A + B → C"/>
+        <outline text="分解反应：A → B + C"/>
+        <outline text="置换反应：A + BC → AC + B"/>
+        <outline text="复分解反应：AB + CD → AD + CB"/>
+        <outline text="氧化反应与还原反应"/>
+        <outline text="燃烧条件：可燃物+O₂+着火点"/>
+      </outline>
+      <outline text="十一、化学计算">
+        <outline text="相对分子质量"/>
+        <outline text="元素质量比与质量分数"/>
+        <outline text="化学方程式计算（质量守恒）"/>
+        <outline text="溶液计算（溶质质量分数、稀释）"/>
+        <outline text="图表题（溶解度曲线、反应曲线）"/>
+      </outline>
+      <outline text="十二、实验探究">
+        <outline text="O₂制取与性质"/>
+        <outline text="水的电解"/>
+        <outline text="CO₂制取与性质"/>
+        <outline text="金属活动性探究"/>
+        <outline text="酸碱性质与中和"/>
+        <outline text="粗盐提纯"/>
+        <outline text="配制一定溶质质量分数溶液"/>
+        <outline text="燃烧条件探究"/>
+      </outline>
+      <outline text="十三、鉴别与颜色">
+        <outline text="黑色固体：CuO、Fe₃O₄、C、MnO₂"/>
+        <outline text="蓝色溶液：CuSO₄"/>
+        <outline text="白色沉淀：BaSO₄、AgCl、CaCO₃"/>
+        <outline text="气体鉴别：O₂、CO₂、H₂、CO"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
