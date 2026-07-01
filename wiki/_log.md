@@ -91,3 +91,8 @@
 - 更新 [[concepts/元素周期律]]、[[concepts/化学键]] 交叉链接
 - 更新 [[overviews/高一化学总览]]、[[_index]]
 - 高一必修第一册四章知识点梳理完成
+
+## [2026-07-01] update | SO₂漂白 vs HClO漂白
+
+- 更新 [[comparisons/SO₂漂白 vs HClO漂白]]：补充化合型 vs 氧化型的化学反应方式、方程式与鉴别
+- 更新 [[entities/二氧化硫]]、[[entities/氯气]] 漂白描述
