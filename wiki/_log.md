@@ -52,3 +52,42 @@
 - 新建 comparisons：[[comparisons/SO₂漂白 vs HClO漂白]]
 - 更新 concepts：[[concepts/氧化反应与还原反应]]、[[concepts/溶液与溶质质量分数]]、[[concepts/复分解反应]]
 - 更新 [[_index]]、[[首页]]
+
+## [2026-07-01] query-archive | 物质的分类知识点梳理
+
+- 新建 [[concepts/物质的分类]]：概念、举例、拓展、易错点（沪科版 1.1）
+- 更新 [[concepts/分散系]] 交叉链接
+- 更新 [[_index]]
+
+## [2026-07-01] query-archive | 物质的量知识点梳理
+
+- 扩充 [[concepts/物质的量]]：概念、举例、拓展、易错点（沪科版 1.2）
+- 更新 [[concepts/溶液与溶质质量分数]] 交叉链接
+- 更新 [[_index]]
+
+## [2026-07-01] query-archive | 化学实验方法知识点梳理
+
+- 新建 [[concepts/化学实验方法]]：概念、举例、拓展、易错点（沪科版 1.3）
+- 更新 [[concepts/物质鉴别]]、[[concepts/物质的量]]、[[concepts/物质的分类]] 交叉链接
+- 更新 [[overviews/高一化学总览]]、[[_index]]
+
+## [2026-07-01] query-archive | 海洋中的卤素资源（第 2 章）
+
+- 新建 [[concepts/海洋中的卤素资源]]：2.1 海水中的氯、2.2 氧化还原与离子反应、2.3 溴和碘的提取
+- 新建 entities：[[entities/溴]]、[[entities/碘]]
+- 更新 [[entities/氯气]]、[[concepts/氧化反应与还原反应]]、[[concepts/离子反应]]
+- 更新 [[overviews/高一化学总览]]、[[_index]]
+
+## [2026-07-01] query-archive | 硫、氮及其循环（第 3 章）
+
+- 新建 [[concepts/硫氮及其循环]]：3.1 硫化合物、3.2 氮化合物、3.3 循环与酸雨
+- 新建 entities：[[entities/硫]]、[[entities/硫酸]]
+- 更新 [[entities/二氧化硫]]、[[entities/氨]]、[[entities/硝酸]]
+- 更新 [[overviews/高一化学总览]]、[[_index]]
+
+## [2026-07-01] query-archive | 原子结构和化学键（第 4 章）
+
+- 新建 [[concepts/原子结构和化学键]]：4.1 周期表与周期律、4.2 原子结构、4.3 电子排布、4.4 化学键
+- 更新 [[concepts/元素周期律]]、[[concepts/化学键]] 交叉链接
+- 更新 [[overviews/高一化学总览]]、[[_index]]
+- 高一必修第一册四章知识点梳理完成
