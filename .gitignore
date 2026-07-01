@@ -1,0 +1,7 @@
+# 忽略 Obsidian 工作区缓存
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+
+# macOS
+.DS_Store
